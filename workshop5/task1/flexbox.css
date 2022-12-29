@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Arvo:ital,wght@0,400;0,700;1,400&display=swap');
+body{
+    background-color:#2596be;
+}
+
+.inner-content{
+    display: flex;
+}
+
+.left-column{
+    padding: 50px;
+    font-size: 35px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.right-column{
+    padding: 50px;
+    float: left;
+    margin: 25px;
+    font-size: 25px;
+    font-family: 'Arvo', serif;
+    color: rgb(255, 255, 255);
+}
+
+.image{
+width:5000;
+}
